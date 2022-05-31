@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josh Jeppson | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/josh-jeppson/</link>
+      <atom:link href="https://fluentverification.github.io/author/josh-jeppson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josh Jeppson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluentverification.github.io/author/josh-jeppson/avatar_hu37b346dff7aeda7d5054429719afd3b5_77822_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Josh Jeppson</title>
+      <link>https://fluentverification.github.io/author/josh-jeppson/</link>
+    </image>
+    
+  </channel>
+</rss>

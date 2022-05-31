@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Turrini | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/andrea-turrini/</link>
+      <atom:link href="https://fluentverification.github.io/author/andrea-turrini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Turrini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fluentverification.github.io/media/icon_hucd04bca176eb6c3dc8ffc98e57c293cb_35773_512x512_fill_lanczos_center_3.png</url>
+      <title>Andrea Turrini</title>
+      <link>https://fluentverification.github.io/author/andrea-turrini/</link>
+    </image>
+    
+    <item>
+      <title>On Correctness, Precision, and Performance in Quantitative Verification: QComp 2020 Competition Report</title>
+      <link>https://fluentverification.github.io/publication/on-correctness-precision-and-performance-in-quantitative-verification-qcomp-2020-competition-report/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/on-correctness-precision-and-performance-in-quantitative-verification-qcomp-2020-competition-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

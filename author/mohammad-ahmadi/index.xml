@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Ahmadi | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/mohammad-ahmadi/</link>
+      <atom:link href="https://fluentverification.github.io/author/mohammad-ahmadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Ahmadi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluentverification.github.io/author/mohammad-ahmadi/avatar_hu2fd469afe69e43f239e0a4e02065a8fb_40619_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Mohammad Ahmadi</title>
+      <link>https://fluentverification.github.io/author/mohammad-ahmadi/</link>
+    </image>
+    
+  </channel>
+</rss>

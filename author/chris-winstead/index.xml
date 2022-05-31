@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Winstead | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/chris-winstead/</link>
+      <atom:link href="https://fluentverification.github.io/author/chris-winstead/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Winstead</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluentverification.github.io/author/chris-winstead/avatar_hu4b916b058b1a0c69ac522ce75768ff5e_141501_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Chris Winstead</title>
+      <link>https://fluentverification.github.io/author/chris-winstead/</link>
+    </image>
+    
+  </channel>
+</rss>

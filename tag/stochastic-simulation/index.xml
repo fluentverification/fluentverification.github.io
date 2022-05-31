@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stochastic simulation | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/tag/stochastic-simulation/</link>
+      <atom:link href="https://fluentverification.github.io/tag/stochastic-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>stochastic simulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fluentverification.github.io/media/icon_hucd04bca176eb6c3dc8ffc98e57c293cb_35773_512x512_fill_lanczos_center_3.png</url>
+      <title>stochastic simulation</title>
+      <link>https://fluentverification.github.io/tag/stochastic-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/stochastic-hazard-analysis-of-genetic-circuits-in-ibiosim-and-stamina/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/stochastic-hazard-analysis-of-genetic-circuits-in-ibiosim-and-stamina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
