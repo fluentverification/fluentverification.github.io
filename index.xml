@@ -5,7 +5,7 @@
     <link>https://fluentverification.github.io/</link>
       <atom:link href="https://fluentverification.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>FLUENT Verification Project</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>FLUENT Verification Project</title>
@@ -13,17 +13,22 @@
     </image>
     
     <item>
-      <title>Example Event</title>
+      <title>Treading in a Sea of Data</title>
       <link>https://fluentverification.github.io/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Aug 2022 12:00:00 +0000</pubDate>
       <guid>https://fluentverification.github.io/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <description>&lt;p&gt;Data is exploding. Today there are more devices generating, transmitting and storing data than there are people on Earth. Most of human knowledge and culture has been rendered into digital formats, but electronic data is ephemeral. Data must be continually curated and maintained, rescued from obsolete technology before it disappears. We can so easily lose it. It resides on chips, disks, or in the cloud &amp;ndash; you can not see it unless you know where to find it.&lt;/p&gt;
+&lt;p&gt;For centuries people have left meaningful artefacts in the form of diaries, letters, artwork, photographs, or physical objects. What will today&amp;rsquo;s generation leave behind? Will digital emails, photos or videos survive beyond a few years? Some researchers are working on the problem of data permanence, finding ways for individuals to preserve their digital lives. In the bigger picture, some scientists are building world archives that may be able to preserve digital artefacts in an almost perpetual format.&lt;/p&gt;
+&lt;p&gt;But can data be truly permanent? In the distant future, will people be able to decode and understand the data we leave for them? There are many languages for representing different kinds of data. Will people of the distant future be able to understand the written languages of today? Will they be able to understand our digital encodings? Or could we represent key information in a more universal pictographic language? From text messages with emojis to the signage on nuclear reactors, we use a mixture of pictographic and textual representations to indicate important concepts that transcend spoken language, and perhaps we can use those techniques to communicate far across time.&lt;/p&gt;
+&lt;p&gt;The workshop will last 2 to 3 hours. All are invited. Registration is appreciated but not mandatory.&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Human languages, data languages, numerical languages&lt;/li&gt;
+&lt;li&gt;What matters? Sifting meaningful information from the digital background&lt;/li&gt;
+&lt;li&gt;Surviving the &amp;ldquo;Digital Dark Age&amp;rdquo; through data permanence&lt;/li&gt;
+&lt;li&gt;Building a &amp;ldquo;forever&amp;rdquo; archive of science and culture&#39;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;p&gt;Free to all. THERE WILL BE PIZZA.&lt;/p&gt;
 </description>
     </item>
     
