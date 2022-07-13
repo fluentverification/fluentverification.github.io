@@ -698,20 +698,25 @@
 
 
 
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 
 <div class="col-12 ">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.</p>
-
+  
 
   
 
     
     
       
+      
+        
+      
+      
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" netlify netlify-honeypot="_gotcha"  >
+      <form name="contact" method="POST" action="https://formspree.io/f/https://formspree.io/f/mgedjqbw"  data-netlify-recaptcha="true" >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -728,6 +733,9 @@
         <div class="d-none">
           <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
         </div>
+        
+          <div class="g-recaptcha" data-sitekey=""></div>
+          </br>
         
         <button type="submit" class="btn btn-primary px-3 py-2 w-100">Send</button>
       </form>
