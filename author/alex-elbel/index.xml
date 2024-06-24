@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Elbel | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/alex-elbel/</link>
+      <atom:link href="https://fluentverification.github.io/author/alex-elbel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Elbel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluentverification.github.io/author/alex-elbel/avatar_hu836b55bf006cb075bf43490a2c772c77_80836_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alex Elbel</title>
+      <link>https://fluentverification.github.io/author/alex-elbel/</link>
+    </image>
+    
+  </channel>
+</rss>

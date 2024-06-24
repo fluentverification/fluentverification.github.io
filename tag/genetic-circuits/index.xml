@@ -5,12 +5,44 @@
     <link>https://fluentverification.github.io/tag/genetic-circuits/</link>
       <atom:link href="https://fluentverification.github.io/tag/genetic-circuits/index.xml" rel="self" type="application/rss+xml" />
     <description>genetic circuits</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>genetic circuits</title>
       <link>https://fluentverification.github.io/tag/genetic-circuits/</link>
     </image>
+    
+    <item>
+      <title>Cycle and Commute: Rare-Event Probability Verification for Chemical Reaction Networks</title>
+      <link>https://fluentverification.github.io/publication/cycle-and-commute/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/cycle-and-commute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Trace Generation for Rare-Event Analysis in Chemical Reaction Networks</title>
+      <link>https://fluentverification.github.io/publication/efficient-trace-generation-for-rare-event-analysis/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/efficient-trace-generation-for-rare-event-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>

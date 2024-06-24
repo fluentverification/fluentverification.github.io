@@ -5,12 +5,20 @@
     <link>https://fluentverification.github.io/author/hao-zheng/</link>
       <atom:link href="https://fluentverification.github.io/author/hao-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Zheng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/author/hao-zheng/avatar_hufcc5398b7d909c275e0ee47a0cb4619d_86674_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Hao Zheng</title>
       <link>https://fluentverification.github.io/author/hao-zheng/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STAMINA: STochastic Approximate Model-Checker for INfinite-State Analysis</title>

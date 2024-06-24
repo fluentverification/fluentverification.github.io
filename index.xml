@@ -5,12 +5,52 @@
     <link>https://fluentverification.github.io/</link>
       <atom:link href="https://fluentverification.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>FLUENT Verification Project</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>FLUENT Verification Project</title>
       <link>https://fluentverification.github.io/</link>
     </image>
+    
+    <item>
+      <title>Tools at the Frontiers of Quantitative Verification: QComp 2023 Competition Report</title>
+      <link>https://fluentverification.github.io/publication/qcomp/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/qcomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycle and Commute: Rare-Event Probability Verification for Chemical Reaction Networks</title>
+      <link>https://fluentverification.github.io/publication/cycle-and-commute/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/cycle-and-commute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Trace Generation for Rare-Event Analysis in Chemical Reaction Networks</title>
+      <link>https://fluentverification.github.io/publication/efficient-trace-generation-for-rare-event-analysis/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/efficient-trace-generation-for-rare-event-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Treading in a Sea of Data</title>
@@ -29,6 +69,22 @@
 &lt;li&gt;Building a &amp;ldquo;forever&amp;rdquo; archive of science and culture&#39;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Free to all. THERE WILL BE PIZZA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Treading in a Sea of Data</title>
+      <link>https://fluentverification.github.io/event/treadinginaseaofdata/</link>
+      <pubDate>Tue, 23 Aug 2022 12:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/event/treadinginaseaofdata/</guid>
+      <description>&lt;p&gt;The workshop will last 2 to 3 hours. All are invited. Registration is appreciated but not mandatory.&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Human languages, data languages, numerical languages&lt;/li&gt;
+&lt;li&gt;What matters? Sifting meaningful information from the digital background&lt;/li&gt;
+&lt;li&gt;Surviving the &amp;ldquo;Digital Dark Age&amp;rdquo; through data permanence&lt;/li&gt;
+&lt;li&gt;Building a &amp;ldquo;forever&amp;rdquo; archive of science and culture&#39;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

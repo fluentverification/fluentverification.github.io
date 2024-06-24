@@ -5,12 +5,20 @@
     <link>https://fluentverification.github.io/author/carlos-e.-budde/</link>
       <atom:link href="https://fluentverification.github.io/author/carlos-e.-budde/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos E. Budde</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Carlos E. Budde</title>
       <link>https://fluentverification.github.io/author/carlos-e.-budde/</link>
     </image>
+    
+    <item>
+      <title>Tools at the Frontiers of Quantitative Verification: QComp 2023 Competition Report</title>
+      <link>https://fluentverification.github.io/publication/qcomp/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/qcomp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Correctness, Precision, and Performance in Quantitative Verification: QComp 2020 Competition Report</title>

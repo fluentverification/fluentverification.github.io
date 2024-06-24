@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infinite-sate systems | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/tag/infinite-sate-systems/</link>
+      <atom:link href="https://fluentverification.github.io/tag/infinite-sate-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>infinite-sate systems</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>infinite-sate systems</title>
+      <link>https://fluentverification.github.io/tag/infinite-sate-systems/</link>
+    </image>
+    
+    <item>
+      <title>STAMINA 2.0: Improving Scalability of Infinite-State Stochastic Model Checking</title>
+      <link>https://fluentverification.github.io/publication/stamina-20-improving-scalability-of-infinite-state-stochastic-model-checking/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/stamina-20-improving-scalability-of-infinite-state-stochastic-model-checking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

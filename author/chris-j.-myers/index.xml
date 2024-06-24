@@ -5,12 +5,20 @@
     <link>https://fluentverification.github.io/author/chris-j.-myers/</link>
       <atom:link href="https://fluentverification.github.io/author/chris-j.-myers/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris J. Myers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/author/chris-j.-myers/avatar_hu7f5512360518c3775913625445136c0b_22826_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Chris J. Myers</title>
       <link>https://fluentverification.github.io/author/chris-j.-myers/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STAMINA 2.0: Improving Scalability of Infinite-State Stochastic Model Checking</title>

@@ -5,12 +5,20 @@
     <link>https://fluentverification.github.io/author/chris-winstead/</link>
       <atom:link href="https://fluentverification.github.io/author/chris-winstead/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Winstead</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/author/chris-winstead/avatar_hu4b916b058b1a0c69ac522ce75768ff5e_141501_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Chris Winstead</title>
       <link>https://fluentverification.github.io/author/chris-winstead/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Treading in a Sea of Data</title>
