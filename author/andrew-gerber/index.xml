@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Gerber | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/andrew-gerber/</link>
+      <atom:link href="https://fluentverification.github.io/author/andrew-gerber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew Gerber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fluentverification.github.io/author/andrew-gerber/avatar_hude9a22e13dee5b45eb83a0cf3969b4f7_24064_270x270_fill_lanczos_center_3.png</url>
+      <title>Andrew Gerber</title>
+      <link>https://fluentverification.github.io/author/andrew-gerber/</link>
+    </image>
+    
+  </channel>
+</rss>

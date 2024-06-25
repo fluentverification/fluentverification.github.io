@@ -5,12 +5,20 @@
     <link>https://fluentverification.github.io/tag/synthetic-biology/</link>
       <atom:link href="https://fluentverification.github.io/tag/synthetic-biology/index.xml" rel="self" type="application/rss+xml" />
     <description>synthetic biology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://fluentverification.github.io/media/icon_hu153d4cd2b08a4d98b837bc6b658832e0_327877_512x512_fill_lanczos_center_3.png</url>
       <title>synthetic biology</title>
       <link>https://fluentverification.github.io/tag/synthetic-biology/</link>
     </image>
+    
+    <item>
+      <title>STAMINA in C&#43;&#43;: Modernizing an Infinite-State Probabilistic Model Checker</title>
+      <link>https://fluentverification.github.io/publication/stamina-in-c&#43;&#43;-modernizing-an-infinite-state-model-checker/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/stamina-in-c&#43;&#43;-modernizing-an-infinite-state-model-checker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cycle and Commute: Rare-Event Probability Verification for Chemical Reaction Networks</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <title>Importance Sampling Techniques for the Analysis of Genetic Circuits</title>
       <link>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</guid>
@@ -33,6 +41,14 @@
       <link>https://fluentverification.github.io/publication/efficient-trace-generation-for-rare-event-analysis/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://fluentverification.github.io/publication/efficient-trace-generation-for-rare-event-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynBioSuite: A Tool for Improving the Workflow for Genetic Design and Modeling</title>
+      <link>https://fluentverification.github.io/publication/synbiosuite-a-tool-for-improving-the-workflow-for-genetic-design-and-modeling/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/synbiosuite-a-tool-for-improving-the-workflow-for-genetic-design-and-modeling/</guid>
       <description></description>
     </item>
     

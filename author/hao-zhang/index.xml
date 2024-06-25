@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Zhang | FLUENT Verification Project</title>
+    <link>https://fluentverification.github.io/author/hao-zhang/</link>
+      <atom:link href="https://fluentverification.github.io/author/hao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fluentverification.github.io/media/icon_hu153d4cd2b08a4d98b837bc6b658832e0_327877_512x512_fill_lanczos_center_3.png</url>
+      <title>Hao Zhang</title>
+      <link>https://fluentverification.github.io/author/hao-zhang/</link>
+    </image>
+    
+    <item>
+      <title>STAMINA in C&#43;&#43;: Modernizing an Infinite-State Probabilistic Model Checker</title>
+      <link>https://fluentverification.github.io/publication/stamina-in-c&#43;&#43;-modernizing-an-infinite-state-model-checker/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/stamina-in-c&#43;&#43;-modernizing-an-infinite-state-model-checker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

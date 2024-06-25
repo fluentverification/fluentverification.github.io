@@ -5,7 +5,7 @@
     <link>https://fluentverification.github.io/author/chris-j.-myers/</link>
       <atom:link href="https://fluentverification.github.io/author/chris-j.-myers/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris J. Myers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fluentverification.github.io/author/chris-j.-myers/avatar_hu7f5512360518c3775913625445136c0b_22826_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Chris J. Myers</title>
@@ -13,10 +13,43 @@
     </image>
     
     <item>
+      <title>Synthetic Biology Workshop</title>
+      <link>https://fluentverification.github.io/event/syntheticbiologyworkshop/</link>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/event/syntheticbiologyworkshop/</guid>
+      <description>&lt;p&gt;This event is organized by the FLUENT Research Group. This project is funded by grants 1856733, 1856740, and 1900542 from the National Science Foundation. The views expressed are those of the authors and do not necessarily reflect those of the NSF.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhageBox: An Open Source Digital Microfluidic Extension With Applications for Phage Discovery</title>
+      <link>https://fluentverification.github.io/publication/phagebox-an-open-source-digital-microfluidic-extension-with-applications-for-phage-discovery/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/phagebox-an-open-source-digital-microfluidic-extension-with-applications-for-phage-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynBioSuite: A Tool for Improving the Workflow for Genetic Design and Modeling</title>
+      <link>https://fluentverification.github.io/publication/synbiosuite-a-tool-for-improving-the-workflow-for-genetic-design-and-modeling/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/synbiosuite-a-tool-for-improving-the-workflow-for-genetic-design-and-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
       <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering genetic circuits: advancements in genetic design automation tools and standards for synthetic biology</title>
+      <link>https://fluentverification.github.io/publication/engineering-genetic-circuits-advancements-in-genetic-design-automation-tools-and-standards-for-synthetic-biology/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/engineering-genetic-circuits-advancements-in-genetic-design-automation-tools-and-standards-for-synthetic-biology/</guid>
       <description></description>
     </item>
     

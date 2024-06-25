@@ -5,18 +5,35 @@
     <link>https://fluentverification.github.io/</link>
       <atom:link href="https://fluentverification.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>FLUENT Verification Project</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fluentverification.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://fluentverification.github.io/media/icon_hu153d4cd2b08a4d98b837bc6b658832e0_327877_512x512_fill_lanczos_center_3.png</url>
       <title>FLUENT Verification Project</title>
       <link>https://fluentverification.github.io/</link>
     </image>
     
     <item>
+      <title>Synthetic Biology Workshop</title>
+      <link>https://fluentverification.github.io/event/syntheticbiologyworkshop/</link>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/event/syntheticbiologyworkshop/</guid>
+      <description>&lt;p&gt;This event is organized by the FLUENT Research Group. This project is funded by grants 1856733, 1856740, and 1900542 from the National Science Foundation. The views expressed are those of the authors and do not necessarily reflect those of the NSF.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tools at the Frontiers of Quantitative Verification: QComp 2023 Competition Report</title>
-      <link>https://fluentverification.github.io/publication/qcomp/</link>
+      <link>https://fluentverification.github.io/publication/tools-at-the-frontiers-of-quantitative-verification/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://fluentverification.github.io/publication/qcomp/</guid>
+      <guid>https://fluentverification.github.io/publication/tools-at-the-frontiers-of-quantitative-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAMINA in C&#43;&#43;: Modernizing an Infinite-State Probabilistic Model Checker</title>
+      <link>https://fluentverification.github.io/publication/stamina-in-c&#43;&#43;-modernizing-an-infinite-state-model-checker/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/stamina-in-c&#43;&#43;-modernizing-an-infinite-state-model-checker/</guid>
       <description></description>
     </item>
     
@@ -29,7 +46,15 @@
     </item>
     
     <item>
-      <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
+      <title>PhageBox: An Open Source Digital Microfluidic Extension With Applications for Phage Discovery</title>
+      <link>https://fluentverification.github.io/publication/phagebox-an-open-source-digital-microfluidic-extension-with-applications-for-phage-discovery/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/phagebox-an-open-source-digital-microfluidic-extension-with-applications-for-phage-discovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance Sampling Techniques for the Analysis of Genetic Circuits</title>
       <link>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://fluentverification.github.io/publication/importance-sampling-techniques-for-the-analysis-of-genetic-circuits/</guid>
@@ -45,6 +70,14 @@
     </item>
     
     <item>
+      <title>SynBioSuite: A Tool for Improving the Workflow for Genetic Design and Modeling</title>
+      <link>https://fluentverification.github.io/publication/synbiosuite-a-tool-for-improving-the-workflow-for-genetic-design-and-modeling/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/synbiosuite-a-tool-for-improving-the-workflow-for-genetic-design-and-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stochastic Hazard Analysis of Genetic Circuits in iBioSim and STAMINA</title>
       <link>https://fluentverification.github.io/publication/a-comparison-of-weighted-stochastic-simulation-methods-for-the-analysis-of-genetic-circuits/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
@@ -54,9 +87,9 @@
     
     <item>
       <title>Treading in a Sea of Data</title>
-      <link>https://fluentverification.github.io/event/example/</link>
+      <link>https://fluentverification.github.io/event/treadinginaseaofdata/</link>
       <pubDate>Tue, 23 Aug 2022 12:00:00 +0000</pubDate>
-      <guid>https://fluentverification.github.io/event/example/</guid>
+      <guid>https://fluentverification.github.io/event/treadinginaseaofdata/</guid>
       <description>&lt;p&gt;Data is exploding. Today there are more devices generating, transmitting and storing data than there are people on Earth. Most of human knowledge and culture has been rendered into digital formats, but electronic data is ephemeral. Data must be continually curated and maintained, rescued from obsolete technology before it disappears. We can so easily lose it. It resides on chips, disks, or in the cloud &amp;ndash; you can not see it unless you know where to find it.&lt;/p&gt;
 &lt;p&gt;For centuries people have left meaningful artefacts in the form of diaries, letters, artwork, photographs, or physical objects. What will today&amp;rsquo;s generation leave behind? Will digital emails, photos or videos survive beyond a few years? Some researchers are working on the problem of data permanence, finding ways for individuals to preserve their digital lives. In the bigger picture, some scientists are building world archives that may be able to preserve digital artefacts in an almost perpetual format.&lt;/p&gt;
 &lt;p&gt;But can data be truly permanent? In the distant future, will people be able to decode and understand the data we leave for them? There are many languages for representing different kinds of data. Will people of the distant future be able to understand the written languages of today? Will they be able to understand our digital encodings? Or could we represent key information in a more universal pictographic language? From text messages with emojis to the signage on nuclear reactors, we use a mixture of pictographic and textual representations to indicate important concepts that transcend spoken language, and perhaps we can use those techniques to communicate far across time.&lt;/p&gt;
@@ -73,19 +106,11 @@
     </item>
     
     <item>
-      <title>Treading in a Sea of Data</title>
-      <link>https://fluentverification.github.io/event/treadinginaseaofdata/</link>
-      <pubDate>Tue, 23 Aug 2022 12:00:00 +0000</pubDate>
-      <guid>https://fluentverification.github.io/event/treadinginaseaofdata/</guid>
-      <description>&lt;p&gt;The workshop will last 2 to 3 hours. All are invited. Registration is appreciated but not mandatory.&lt;/p&gt;
-&lt;p&gt;Topics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Human languages, data languages, numerical languages&lt;/li&gt;
-&lt;li&gt;What matters? Sifting meaningful information from the digital background&lt;/li&gt;
-&lt;li&gt;Surviving the &amp;ldquo;Digital Dark Age&amp;rdquo; through data permanence&lt;/li&gt;
-&lt;li&gt;Building a &amp;ldquo;forever&amp;rdquo; archive of science and culture&#39;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <title>Engineering genetic circuits: advancements in genetic design automation tools and standards for synthetic biology</title>
+      <link>https://fluentverification.github.io/publication/engineering-genetic-circuits-advancements-in-genetic-design-automation-tools-and-standards-for-synthetic-biology/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://fluentverification.github.io/publication/engineering-genetic-circuits-advancements-in-genetic-design-automation-tools-and-standards-for-synthetic-biology/</guid>
+      <description></description>
     </item>
     
     <item>
